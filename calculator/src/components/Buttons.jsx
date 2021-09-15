@@ -7,37 +7,35 @@ function Buttons() {
     <section>  
       <div className="container1">
         <button
-          value=""
+          value="7"
           onClick=""
         >
           7
         </button>
         <button
-          value=""
+          value="8"
           onClick=""
         >
           8
         </button>
         <button
-          value=""
+          value="9"
           onClick=""
         >
           9
         </button>
         <button
-          value=""
+          value="/"
           onClick=""
         >
           /
         </button>
         <button
-          value=""
           onClick=""
         >
           voltar
         </button>
         <button
-          value=""
           onClick=""
         >
           C
@@ -45,37 +43,37 @@ function Buttons() {
       </div>
       <div className="container2">
         <button
-          value=""
+          value="4"
           onClick=""
         >
           4
         </button>
         <button
-          value=""
+          value="5"
           onClick=""
         >
           5
         </button>
         <button
-          value=""
+          value="6"
           onClick=""
         >
           6
         </button>
         <button
-          value=""
+          value="*"
           onClick=""
         >
           x
         </button>
         <button
-          value=""
+          value="("
           onClick=""
         >
           (
         </button>
         <button
-          value=""
+          value=")"
           onClick=""
         >
           )
@@ -83,25 +81,25 @@ function Buttons() {
       </div>
       <div className="container3">
         <button
-          value=""
+          value="1"
           onClick=""
         >
           1
         </button>
         <button
-          value=""
+          value="2"
           onClick=""
         >
           2
         </button>
         <button
-          value=""
+          value="3"
           onClick=""
         >
           3
         </button>
         <button
-          value=""
+          value="-"
           onClick=""
         >
           -
@@ -121,13 +119,13 @@ function Buttons() {
       </div>
       <div className="container4">
         <button
-          value=""
+          value="0"
           onClick=""
         >
           0
         </button>
         <button
-          value=""
+          value="."
           onClick=""
         >
           ,
@@ -139,13 +137,14 @@ function Buttons() {
           %
         </button>
         <button
-          value=""
+          value="+"
           onClick=""
         >
           +
         </button>
         <button
-          value=""
+          id="result"
+          value="="
           onClick=""
         >
           =
