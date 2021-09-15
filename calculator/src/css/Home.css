@@ -1,0 +1,7 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  place-items: center;
+  padding: 1%;
+}
